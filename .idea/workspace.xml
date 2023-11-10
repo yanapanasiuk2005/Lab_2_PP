@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da12766c-ad44-45db-928f-20a363b9a55d" name="Changes" comment="protect from S">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_lab_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task1/StackAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Cube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Pyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/ShapeArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/ShapeVolume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Airport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/AirportNetwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/FlightSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Passenger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Ticket.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2Xt6Gg7EHKvdccmYBJmmNEETnR0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/yanap/IdeaProjects/Java_lab_2/src/Task1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "C:/Users/yanap/IdeaProjects/Java_lab_2/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\yanap\IdeaProjects\Java_lab_2\src\Task1" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Task2" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da12766c-ad44-45db-928f-20a363b9a55d" name="Changes" comment="" />
+      <created>1699435943698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699435943698</updated>
+      <workItem from="1699435944720" duration="6013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="protect from S" />
+    <option name="LAST_COMMIT_MESSAGE" value="protect from S" />
+  </component>
+</project>
