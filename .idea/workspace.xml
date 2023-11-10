@@ -5,37 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da12766c-ad44-45db-928f-20a363b9a55d" name="Changes" comment="protect from S">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_lab_2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task1/StackAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Cube.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Pyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/ShapeArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/ShapeVolume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Sphere.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Airport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/AirportNetwork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/FlightSchedule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Passenger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,8 +65,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699435943698</updated>
-      <workItem from="1699435944720" duration="6013000" />
+      <workItem from="1699435944720" duration="6583000" />
     </task>
+    <task id="LOCAL-00001" summary="protect from S">
+      <option name="closed" value="true" />
+      <created>1699624853062</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699624853062</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
